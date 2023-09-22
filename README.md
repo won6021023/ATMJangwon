@@ -1,4 +1,4 @@
-# Jangwon-ATM-Homework
+# Jangwon-ATM-Homework (이장원)
 내일배움캠프 - Unity 게임개발 입문 개인과제 
 
 ## 구현 내용
